@@ -19,15 +19,12 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
 > 🏆 434 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 84 Public Repositories 
  > 
@@ -53,13 +50,6 @@ Saturday                 131 commits         █████░░░░░░�
 Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
