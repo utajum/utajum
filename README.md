@@ -18,6 +18,10 @@
 
 
 
+[![Vladimir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utajum&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true)](https://github.com/utajum)
+
+
+
 <!--START_SECTION:waka-->
 
 **🐱 My GitHub Data** 
