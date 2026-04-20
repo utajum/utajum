@@ -74,11 +74,13 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,deno,bash,html,css,sass,tailwind,babel,webpack,react,nextjs,astro,gatsby,redux,express,fastify,nestjs,graphql,rabbitmq,kafka,nginx,ionic,cordova,electron,mysql,mongodb,postgres,redis,sqlite,grafana,aws,gcp,azure,docker,jenkins,circleci,linux,git,cypress,selenium,jest,figma,unreal,arduino&perline=12" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,deno,bash,html,css,sass,tailwind,babel,webpack,react,nextjs,astro,gatsby,redux,express,nestjs,graphql,rabbitmq,kafka,nginx,electron,mysql,mongodb,postgres,redis,sqlite,grafana,aws,gcp,azure,docker,jenkins,linux,git,cypress,selenium,jest,figma,unreal,arduino&perline=12" alt="Skills" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
   <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
