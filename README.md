@@ -14,7 +14,7 @@
 
 
 
-[![Vladimir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=utajum&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true)](https://github.com/utajum)
+[![Vladimir's github activity graph](./profile/activity-graph.svg)](https://github.com/utajum)
 
 
 
@@ -22,49 +22,49 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 2.7 MB Used in GitHub's Storage 
+> 📦 6.8 GB Used in GitHub's Storage 
  > 
-> 🏆 434 Contributions in the Year 2024
+> 🏆 3,478 Contributions in the Year 2026
  > 
-> 📜 84 Public Repositories 
+> 📜 120 Public Repositories 
  > 
-> 🔑 30 Private Repositories 
+> 🔑 45 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-🌆 Daytime                275 commits         ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌃 Evening                215 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
-🌙 Night                  205 commits         ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+🌞 Morning                1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+🌆 Daytime                4211 commits        ████████████░░░░░░░░░░░░░   48.68 % 
+🌃 Evening                2083 commits        ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
+🌙 Night                  1110 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   189 commits         ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-Tuesday                  144 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Wednesday                61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Thursday                 149 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Friday                   24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Saturday                 131 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Sunday                   3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-```
-
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               24 repos            ██████████░░░░░░░░░░░░░░░   39.34 % 
-TypeScript               23 repos            █████████░░░░░░░░░░░░░░░░   37.70 % 
-Shell                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Monday                   1516 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Tuesday                  1670 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Thursday                 1634 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Friday                   1064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Saturday                 780 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Sunday                   473 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 ```
 
 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               47 repos            ██████████░░░░░░░░░░░░░░░   40.87 % 
+JavaScript               25 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Shell                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Astro                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+```
 
 
- Last Updated on 22/10/2024 23:11:01 UTC
+
+
+ Last Updated on 13/11/2026 07:43:57 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -89,7 +89,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 ![utajum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=utajum&theme=merko&hide_border=true)
 
-![utajum's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utajum&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![utajum's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=utajum&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 
 
