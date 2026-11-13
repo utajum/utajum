@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
-      - uses: utajum/profile-readme-action@59130d44b3d12b5ba7e983f5da4ee3f50c452333
+      - uses: utajum/profile-readme-action@4cc0ba0a97346174b75564625541a7cd895185cc
         with:
           # PAT with repo scope for private stats; without it the README stats are kept
           token: ${{ secrets.PROFILE_TOKEN || github.token }}
