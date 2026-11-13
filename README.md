@@ -8,7 +8,7 @@
 <h2>📪 Contact me</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/vladdimir/">
-<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+<img src="./assets/badges/linkedin.svg" alt="linkedin" />
 </a>
 </p>
 
@@ -74,17 +74,17 @@ Python                   5 repos             █░░░░░░░░░░�
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,deno,bash,html,css,sass,tailwind,babel,webpack,react,nextjs,astro,gatsby,redux,express,nestjs,graphql,rabbitmq,kafka,nginx,electron,mysql,mongodb,postgres,redis,sqlite,grafana,aws,gcp,azure,docker,jenkins,linux,git,cypress,selenium,jest,figma,unreal,arduino&perline=12" alt="Skills" />
+    <img src="./assets/skills.svg" alt="Skills" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
-  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="./assets/badges/fastify.svg" alt="Fastify" />
+  <img src="./assets/badges/circleci.svg" alt="CircleCI" />
+  <img src="./assets/badges/atlassian.svg" alt="Atlassian" />
+  <img src="./assets/badges/openai.svg" alt="OpenAI" />
+  <img src="./assets/badges/claude.svg" alt="Claude" />
+  <img src="./assets/badges/hugging-face.svg" alt="Hugging Face" />
 </p>
 
 ![utajum's Streak](https://github-readme-streak-stats.herokuapp.com/?user=utajum&theme=merko&hide_border=true)
