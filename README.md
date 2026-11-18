@@ -22,9 +22,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 6.8 GB Used in GitHub's Storage 
+> 📦 7.1 GB Used in GitHub's Storage 
  > 
-> 🏆 3,627 Contributions in the Year 2026
+> 🏆 3,702 Contributions in the Year 2026
  > 
 > 📜 120 Public Repositories 
  > 
@@ -33,36 +33,36 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1273 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-🌆 Daytime                4244 commits        ████████████░░░░░░░░░░░░░   48.28 % 
-🌃 Evening                2108 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌙 Night                  1165 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+🌞 Morning                1289 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+🌆 Daytime                4261 commits        ████████████░░░░░░░░░░░░░   48.12 % 
+🌃 Evening                2122 commits        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+🌙 Night                  1183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  1680 commits        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Wednesday                1514 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Thursday                 1636 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Friday                   1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Saturday                 816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Sunday                   548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Monday                   1519 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  1705 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Wednesday                1548 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Thursday                 1642 commits        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Friday                   1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Saturday                 816 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Sunday                   548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               49 repos            ██████████░░░░░░░░░░░░░░░   41.53 % 
+TypeScript               47 repos            ██████████░░░░░░░░░░░░░░░   39.83 % 
 JavaScript               25 repos            █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
 Shell                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Astro                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 C#                       4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-HTML                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Blade                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
@@ -74,7 +74,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 11:00:48 UTC
+ Last Updated on 18/11/2026 11:00:48 UTC
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
